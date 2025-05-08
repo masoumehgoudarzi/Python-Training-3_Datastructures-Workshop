@@ -1,1 +1,2 @@
-# Python-Training-3_Datastructures-Workshop
+# Python-Training-3-Datastructures-Workshop
+This notebook, **"Data Structures Workshop"**, focuses on fundamental Python data structures such as lists, tuples, sets, and dictionaries. It introduces how to create, access, and manipulate these structures with examples and practice exercises. Designed for beginners, the notebook demonstrates how to store and manage data efficiently, preparing learners to write more structured and organized Python code.
